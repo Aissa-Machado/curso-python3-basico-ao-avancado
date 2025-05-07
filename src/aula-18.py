@@ -16,4 +16,4 @@ elif condicao4:
     print('condicao1 true')
 else:
     print('todas false')
-    
+#brincando com o debbuger 
