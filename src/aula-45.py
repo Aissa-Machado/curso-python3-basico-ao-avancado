@@ -1,0 +1,6 @@
+texto = iter('Aissa')
+print(texto.__next__())
+print(texto.__next__())
+print(texto.__next__())
+print(texto.__next__())
+print(texto.__next__())
